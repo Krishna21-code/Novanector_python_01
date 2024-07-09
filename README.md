@@ -39,3 +39,4 @@ start_game(): Starts the game by displaying the first question.
 
 Contributing
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+contact(kdkrish495@gmail.com)
